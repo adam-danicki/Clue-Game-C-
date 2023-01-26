@@ -1,4 +1,5 @@
 # Clue-Game-C-
+# Game Created for UMass Amherst CS 230.
 1) How to compile the game
  - In order to compile the game you must be in the folder with all required files, this being "adventure.c", 
    "items.c", "items.h", "room.c", and "room.h". If you are reding this then you are most likely in the correct folder.
